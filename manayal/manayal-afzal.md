@@ -1,2 +1,2 @@
 # Manayal Afzal
-I’m a Computer Science graduate from NUST with an interest in building practical software and exploring how AI can solve real-world problems. I enjoy learning new technologies, working through challenging problems, and turning ideas into useful applications.
+I’m a Computer Science graduate from NUST with a strong interest in software development and artificial intelligence. I enjoy solving problems, learning new technologies, and building practical applications that turn ideas into useful solutions.
